@@ -13,7 +13,7 @@
 <!-- ===== TYPING ANIMATION ===== -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Hey+there!+I'm+Anshu+Sharma+%F0%9F%91%8B;AI+%2F+ML+Engineer+in+the+making+%F0%9F%A4%96;Building+Crop+Disease+Detection+Models+%F0%9F%8C%BE;Learning+RAG+Pipelines+%26+LLMs+%F0%9F%93%9A;Based+in+Sonipat%2C+Haryana+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Hey!+I'm+Anshu+Sharma+%F0%9F%91%8B;AI+%2F+ML+Engineer+in+the+making+%F0%9F%A4%96;Building+Crop+Disease+Detection+Models+%F0%9F%8C%BE;Learning+RAG+Pipelines+%26+LLMs+%F0%9F%93%9A;Based+in+Sonipat%2C+Haryana+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
   </a>
 </div>
 
