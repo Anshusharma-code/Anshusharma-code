@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anshu%20Sharma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20in%20the%20Making&descAlignY=55&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anshu%20Sharma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=From%20ML%20Experiments%20to%20AI%20Products&descAlignY=55&descSize=18" width="100%" />
 
 </div>
 
