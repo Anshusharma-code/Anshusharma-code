@@ -20,7 +20,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Anshusharma-code&style=flat-square&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=Anshusharma-code&style=flat)
  
 [![GitHub followers](https://img.shields.io/github/followers/Anshusharma-code?label=Followers\&style=social)](https://github.com/Anshusharma-code)
 
